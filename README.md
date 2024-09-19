@@ -11,6 +11,9 @@ A platformer-game project on Unity where the player has to move to the next safe
 [Play the game here!](https://rishn.github.io/HW-Test-D/)
 
 ## Gameplay
+
+https://github.com/user-attachments/assets/a2ac78b3-03ea-4641-bdba-5c7b8110e393
+
 <p align="center">
   <img src="https://github.com/rishn/HW_2024_Test/blob/master/gameplay/game.png?raw=true" alt="Gameplay" />
 </p>
