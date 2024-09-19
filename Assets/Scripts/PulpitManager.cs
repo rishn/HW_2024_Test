@@ -294,7 +294,7 @@ public class PulpitManager : MonoBehaviour {
         gameOver.gameObject.SetActive(true);
         gameOver.text = "Game Over!";
 
-        finalScore.text = "Final Score: " + score;
+        finalScore.text = "Final Score: " + (score - 1);
         finalScore.gameObject.SetActive(true);
         restartButton.gameObject.SetActive(true);
 
