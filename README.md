@@ -1,6 +1,6 @@
 # Hitwicket Doofus Adventure Game
 
-A platformer-game project on Unity where the player has to move to the next safest platform before it disappears.
+A platformer-game project on Unity where the player has to move to the next safest platform before it disappears. This game was developed as part of the Hitwicket Hiring Challenge.
 
 ## Features
 - Score to keep track of how many platforms have been traversed
