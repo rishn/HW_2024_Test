@@ -8,7 +8,7 @@ A platformer-game project on Unity where the player has to move to the next safe
 - Audio playback during gameplay
 - Simple and attractive UI
 
-https://github.com/user-attachments/assets/c8607dbf-20f2-45d4-93dd-44c5fb8387e3
+https://github.com/user-attachments/assets/a2ac78b3-03ea-4641-bdba-5c7b8110e393
 
 ## Gameplay
 <p align="center">
