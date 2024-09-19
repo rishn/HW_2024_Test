@@ -8,7 +8,7 @@ A platformer-game project on Unity where the player has to move to the next safe
 - Audio playback during gameplay
 - Simple and attractive UI
 
-[Play the game here!](https://rishn.github.io/HW-Test-D/)
+[Play the game here!](https://rishn.github.io/HW_Test_D/)
 
 ## Gameplay
 
